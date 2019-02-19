@@ -18,17 +18,25 @@
 
 ### 1. 长期趋势
 
-### 2.周期性
+### 2. 周期性
 
-### 3.季节性
+### 3. 季节性
 
-### 4.突发性
+### 4. 突发性
 
 ## 四、传统预测方法
 
 ### 1. 缺点
 
 ## 五、机器学习预测方法
+
+![img](/home/fallleaf/ipran_flow_ml_predict/figure/ipran_flow_ml_predict.md)
+
+![img](/home/fallleaf/ipran_flow_ml_predict/figure/webp)
+
+
+
+![img](/home/fallleaf/ipran_flow_ml_predict/2)
 
 ### 1. ARIMA预测方法
 
