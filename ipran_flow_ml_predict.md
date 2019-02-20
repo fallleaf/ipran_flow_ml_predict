@@ -26,17 +26,17 @@
 
 ## 四、传统预测方法
 
-### 1. 缺点
+### 1. 缺点`
 
 ## 五、机器学习预测方法
 
-![img](/home/fallleaf/ipran_flow_ml_predict/figure/ipran_flow_ml_predict.md)
+![img](./figure/ipran_flow_ml_predict.md)
 
-![img](/home/fallleaf/ipran_flow_ml_predict/figure/webp)
+![img](./figure/webp)
 
 
 
-![img](/home/fallleaf/ipran_flow_ml_predict/2)
+![img](./2)
 
 ### 1. ARIMA预测方法
 
